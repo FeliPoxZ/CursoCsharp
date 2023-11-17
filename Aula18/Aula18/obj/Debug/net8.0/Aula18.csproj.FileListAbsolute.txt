@@ -1,0 +1,15 @@
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/bin/Debug/net8.0/Aula18
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/bin/Debug/net8.0/Aula18.deps.json
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/bin/Debug/net8.0/Aula18.runtimeconfig.json
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/bin/Debug/net8.0/Aula18.dll
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/bin/Debug/net8.0/Aula18.pdb
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/Aula18.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/Aula18.AssemblyInfoInputs.cache
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/Aula18.AssemblyInfo.cs
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/Aula18.csproj.CoreCompileInputs.cache
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/Aula18.sourcelink.json
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/Aula18.dll
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/refint/Aula18.dll
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/Aula18.pdb
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/Aula18.genruntimeconfig.cache
+/home/felipe/Documents/GitHub/CursoCsharp/Aula18/Aula18/obj/Debug/net8.0/ref/Aula18.dll
